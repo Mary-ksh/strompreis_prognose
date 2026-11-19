@@ -1,6 +1,10 @@
+# Virtuelle Umgebung und Geheimnisse
 .venv/
 .env
+
+# Daten (werden mit fetch_prices_year.py neu geladen)
+data/
+
+# Python-Zwischendateien
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
+*.py[cod]

@@ -110,7 +110,3 @@ Der erste Lauf dauert etwa 7 Minuten, danach nur wenige Sekunden.
 ## Ergebnisse
 
 Folgen nach Schritt 4 und 5.
-
-## Autorin
-
-Maryam, M.Sc. Informatik (TU Clausthal) · GitHub: [Mary-ksh](https://github.com/Mary-ksh)
